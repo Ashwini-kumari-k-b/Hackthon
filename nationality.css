@@ -1,0 +1,44 @@
+.main {
+  background-image: url("/img.jpg");
+  height: 200%;
+  width: 100%;
+  position: fixed;
+
+  -ms-transform: translateY(50%);
+}
+
+.card {
+  width: 20%;
+  background: #e7e7e7;
+  height: 25vh;
+  margin: 50px auto;
+  border-radius: 10%;
+  border: 3px solid green;
+}
+.search-btn {
+  align-items: center;
+}
+
+.Country {
+  text-align: center;
+  font-size: 150%;
+  font-family: "Arial, Helvetica, sans-serif";
+}
+
+.probablity {
+  text-align: center;
+  font-size: 100%;
+  font-family: "Arial, Helvetica, sans-serif";
+}
+
+.Country1 {
+  text-align: center;
+  font-size: 150%;
+  font-family: "Arial, Helvetica, sans-serif";
+}
+
+.probablity1 {
+  text-align: center;
+  font-size: 100%;
+  font-family: "Arial, Helvetica, sans-serif";
+}
